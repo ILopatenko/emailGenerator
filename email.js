@@ -7,7 +7,7 @@ const makeEmail = require('./helpers/mainHelper');
 const isEmail = require('isemail');
 
 //SETTINGS
-const setup = '30@250.3';
+const setup = '200@1.1';
 
 //GENERATING
 const email = makeEmail(setup);
